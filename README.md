@@ -109,7 +109,7 @@
 
 ### 4. 🔗 [API 문서](https://phase-football-921.notion.site/API-25bab603db8b8090ac11f65f7fb4884e?pvs=74)
 
-### 5. 🔗 [발표 자료](/profile/docs/최종발표PPT.pptx)
+### 5. 🔗 [발표 자료](/docs/최종발표PPT.pptx)
 
 ---
 
